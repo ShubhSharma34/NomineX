@@ -1,0 +1,19 @@
+{
+  "managers": [
+    {
+      "name": "Rajesh Kumar",
+      "username": "rajesh.kumar",
+      "password": "Manager@123"
+    },
+    {
+      "name": "Priya Sharma",
+      "username": "priya.sharma",
+      "password": "Manager@456"
+    },
+    {
+      "name": "Amit Verma",
+      "username": "amit.verma",
+      "password": "Manager@789"
+    }
+  ]
+}

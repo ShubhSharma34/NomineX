@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (large)
+models/*.pkl
+
+# Database
+nominations.db
+
+# Exports
+exports/
+
+# Node modules
+node_modules/
+app/frontend/node_modules/
+
+# Vite build
+app/frontend/dist/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
