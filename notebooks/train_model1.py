@@ -1,3 +1,5 @@
+# NomineX — Nomination Filtering System
+# Author: Shubh Sharma | June 2025
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
