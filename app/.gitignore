@@ -8,8 +8,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Model files (large)
-models/*.pkl
+
 
 # Database
 nominations.db
