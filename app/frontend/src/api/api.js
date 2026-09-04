@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE = 'http://127.0.0.1:8000'
+const BASE = 'https://nominex-1.onrender.com'
 
 export const getStats        = ()       => axios.get(`${BASE}/stats`)
 export const getPrograms     = ()       => axios.get(`${BASE}/programs`)
